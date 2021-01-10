@@ -1,0 +1,8 @@
+name: FartPlugin
+main: com.silentcall.fart.main.Main
+author: SilentCall
+version: 1.0
+commands:
+  fart:
+      description: Uh oh stinky haha.. unless >.<
+      usage: /<command>
